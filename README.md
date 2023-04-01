@@ -13,7 +13,7 @@
 
   
   
-<bR><bR>
+<bR>
   
 
 * [URL da Documentação](#1)
@@ -23,8 +23,7 @@
 * [Dados retornados para cada método (Dicionário de dados)](#5)
 
   <br>
-  <br>
-  <br>
+
   # :hammer: Funcionalidades do projeto
 
  
