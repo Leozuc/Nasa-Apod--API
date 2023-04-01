@@ -7,12 +7,11 @@
 </div><bR><bR><bR>
   
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [URL da Documentação](#1)
+* [URL de Acesso](#2)
+* [Métodos Disponíveis (endpoints) e indicação de qual/quais serão implementados na aplicação](#3)
+* [Atributos/parâmetros solicitados por cada método](#4)
+* [Dados retornados para cada método (Dicionário de dados)](#5)
 
   <br>
   <br>
