@@ -7,9 +7,10 @@
 
 <h1 align="center"> Picture of the Day <img src="https://user-images.githubusercontent.com/101806906/229294885-5339f337-e9eb-4573-8fef-21fe6ed59708.png" height="90px" width="110px"/> </h1>
 </div><bR>
-  
-    # :chart_with_downwards_trend: Funcionalidades do projeto
-  
+
+ 
+
+  # :chart_with_downwards_trend: Funcionalidades do projeto
  Aplicativo em desenvolvimento para pessoas amantes de fotografias, podendo publicar lindas imagens diariamente e consulta-las quando quiser!
  Tradução: Uma biblioteca Java para acessar a API Picture of the Day baseada em HTTP do Dropbox. Esta aplicação está disponivel para celulares antigos e modernos.
 
@@ -25,13 +26,7 @@
 * [Dados retornados para cada método (Dicionário de dados)](#5)
 
   <br>
-
-  # :chart_with_downwards_trend: Funcionalidades do projeto
- Aplicativo em desenvolvimento para pessoas amantes de fotografias, podendo publicar lindas imagens diariamente e consulta-las quando quiser!
- Tradução: Uma biblioteca Java para acessar a API Picture of the Day baseada em HTTP do Dropbox. Esta aplicação está disponivel para celulares antigos e modernos.
-
   
- 
 **Dupla:** Eduardo Andreolli e Leonardo Mazzuco | 3° DS | Programação Mobile (**Prof°:** Aline Firmino Brito)<br>
 
 API selecionada: Astronomy Picture of the Day (APOD - NASA)<br><br>
