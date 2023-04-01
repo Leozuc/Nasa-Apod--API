@@ -1,10 +1,19 @@
 # Nasa-Apod-API
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 
 <div>
 
 <h1 align="center"> Picture of the Day <img src="https://user-images.githubusercontent.com/101806906/229294885-5339f337-e9eb-4573-8fef-21fe6ed59708.png" height="90px" width="110px"/> </h1>
-</div><bR><bR><bR>
+</div><bR>
+  
+ Aplica em desenvolvimento para amantes de céus
+  Tradução: Uma biblioteca Java para acessar a API Core v2 baseada em HTTP do Dropbox. Este SDK também oferece suporte ao Core API v1 mais antigo, mas esse suporte será removido em algum momento.
+
+  
+  
+<bR><bR>
   
 
 * [URL da Documentação](#1)
