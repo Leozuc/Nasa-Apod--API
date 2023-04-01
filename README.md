@@ -27,7 +27,10 @@
   <br>
 
   # :chart_with_downwards_trend: Funcionalidades do projeto
+ Aplicativo em desenvolvimento para pessoas amantes de fotografias, podendo publicar lindas imagens diariamente e consulta-las quando quiser!
+ Tradução: Uma biblioteca Java para acessar a API Picture of the Day baseada em HTTP do Dropbox. Esta aplicação está disponivel para celulares antigos e modernos.
 
+  
  
 **Dupla:** Eduardo Andreolli e Leonardo Mazzuco | 3° DS | Programação Mobile (**Prof°:** Aline Firmino Brito)<br>
 
