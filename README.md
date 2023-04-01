@@ -33,5 +33,10 @@
    <h3>  📎<b> URL da Documentação:</b></h3>
  https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY<br>
 
+# :hammer: Métodos disponíveis (endpoints) e indicação de qual/quais serão implementados na aplicação
 
+- `Método 1`: descrição da funcionalidade 1
+- `Método 2`: descrição da funcionalidade 2
+- `Método 2: descrição da funcionalidade 2a relacionada à funcionalidade 2
+- `Método 3`: descrição da funcionalidade 3
 
