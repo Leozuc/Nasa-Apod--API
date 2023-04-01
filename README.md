@@ -1,5 +1,4 @@
 # Nasa-Apod-API
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 ![Badge em Confi](http://img.shields.io/static/v1?label=FUNCIONALIDADE&message=%20Receber%20fotos%20diárias%20e%20consultar%20imagens%20antecessoras%20ao%20dia%20atual%20&color=blueviolet&style=for-the-badge)
 
@@ -9,8 +8,8 @@
 <h1 align="center"> Picture of the Day <img src="https://user-images.githubusercontent.com/101806906/229294885-5339f337-e9eb-4573-8fef-21fe6ed59708.png" height="90px" width="110px"/> </h1>
 </div><bR>
   
- Aplica em desenvolvimento para amantes de céus
-  Tradução: Uma biblioteca Java para acessar a API Core v2 baseada em HTTP do Dropbox. Este SDK também oferece suporte ao Core API v1 mais antigo, mas esse suporte será removido em algum momento.
+ Aplicativo em desenvolvimento para pessoas amantes de fotografias, podendo publicar lindas imagens diariamente e consulta-las quando quiser!
+ Tradução: Uma biblioteca Java para acessar a API Picture of the Day baseada em HTTP do Dropbox. Esta aplicação está disponivel para celulares antigos e modernos.
 
   
   
