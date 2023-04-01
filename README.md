@@ -1,8 +1,7 @@
 # Nasa-Apod-API
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=tomato&style=for-the-badge)
 
-![Badge em Confi](http://img.shields.io/static/v1?label=FUNCIONALIDADE&message=FOTOS%20DIARIAS&color=informational&style=for-the-badge)
+![Badge em Confi](http://img.shields.io/static/v1?label=FUNCIONALIDADE&message=FOTOS%20Receber fotos diárias e consultar imagens antecessoras ao dia atualS&color=informational&style=for-the-badge)
 
 
 <div>
