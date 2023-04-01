@@ -1,5 +1,5 @@
 # Nasa-Apod-API
-<img src="https://user-images.githubusercontent.com/101806906/229294885-5339f337-e9eb-4573-8fef-21fe6ed59708.png" height="42px" width="42px"/>
+<img src="https://user-images.githubusercontent.com/101806906/229294885-5339f337-e9eb-4573-8fef-21fe6ed59708.png" height="100px" width="100px"/>
 
 
 
