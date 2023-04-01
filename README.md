@@ -33,10 +33,15 @@
    <h3>  📎<b> URL da Documentação:</b></h3>
  https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY<br>
 
-# :hammer: Métodos disponíveis (endpoints) e indicação de qual/quais serão implementados na aplicação
+# :hammer: Métodos disponíveis
 
-- `Método 1`: descrição da funcionalidade 1
-- `Método 2`: descrição da funcionalidade 2
-- `Método 2: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Método 3`: descrição da funcionalidade 3
+- `apod_object_parser.get_dat 1`: descrição da funcionalidade 1
+- `apod_object_parser.get_explaination`: descrição da funcionalidade 2
+- `apod_object_parser.get_hdurl: descrição da funcionalidad
+- `apod_object_parser.get_media_type`: descrição da funcionalidade 3
+- `apod_object_parser.get_service_version`: descrição da funcionalidade 3
+- `apod_object_parser.get_title`: descrição da funcionalidade 3
+- `apod_object_parser.get_url`: descrição da funcionalidade 3
+
+
 
