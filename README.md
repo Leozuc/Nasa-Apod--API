@@ -45,7 +45,7 @@
 
 
 
- <h3> <b>  💾 Pâramentros soliciatos por cada método </b></h3>
+ <h3> <b>💾 Pâramentros soliciatos por cada método </b></h3>
 
 
 - `api_key`: Demonstração: DEMO_KEY | https://api.nasa.gov/#signUp
@@ -55,8 +55,8 @@
 - `count`: Número INTEIRO positivo > 100, não pode ser utilizado com date e nem variantes. 
 - `thumbs`: É um parâmetro BOOLEANO True | False o qual indica se a API deve retornar um URL da imagem.
 
-
-    <h3> <b>  📼 Dados retornados para cada atributo. </b></h3>
+<br><br>
+    <h3> <b>📼 Dados retornados para cada atributo. </b></h3>
   
 - `resource `: Um dicionáriaa que descreve o image.
 - `title `:O título da image.
@@ -70,7 +70,7 @@
    <br><br>
    
      
-  ✅: Funcionalidades do projeto
-   - `Java `:
-   - `Android `:
-   - `Paradigma de orientação a objetos `:
+  # ✅ Funcionalidades do projeto
+   - `Java `
+   - `Android `
+   - `Paradigma de orientação a objetos `
