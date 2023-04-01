@@ -2,6 +2,8 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=9cf&style=for-the-badge)
 
+![Badge em Desenvolvimento] https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+
 
 <div>
 
