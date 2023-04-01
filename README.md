@@ -8,7 +8,8 @@
 <h1 align="center"> Picture of the Day <img src="https://user-images.githubusercontent.com/101806906/229294885-5339f337-e9eb-4573-8fef-21fe6ed59708.png" height="90px" width="110px"/> </h1>
 </div><bR>
   
-    # :chart_with_downwards_trend: Funcionalidades do projeto<br>
+    # :chart_with_downwards_trend: Funcionalidades do projeto
+  
  Aplicativo em desenvolvimento para pessoas amantes de fotografias, podendo publicar lindas imagens diariamente e consulta-las quando quiser!
  Tradução: Uma biblioteca Java para acessar a API Picture of the Day baseada em HTTP do Dropbox. Esta aplicação está disponivel para celulares antigos e modernos.
 
