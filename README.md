@@ -35,13 +35,14 @@
 
 # :hammer: Métodos disponíveis
 
-- `apod_object_parser.get_dat 1`: descrição da funcionalidade 1
-- `apod_object_parser.get_explaination`: descrição da funcionalidade 2
-- `apod_object_parser.get_hdurl: descrição da funcionalidad
-- `apod_object_parser.get_media_type`: descrição da funcionalidade 3
-- `apod_object_parser.get_service_version`: descrição da funcionalidade 3
-- `apod_object_parser.get_title`: descrição da funcionalidade 3
-- `apod_object_parser.get_url`: descrição da funcionalidade 3
+- `apod_object_parser.get_dat 1`: a get_date função pega o dicionário que obtivemos acima e retorna a data.
+- `apod_object_parser.get_explaination`: a get_explaination função pega o dicionário que obtivemos acima e retorna a explicação.
+- `apod_object_parser.get_hdurl`: a get_hdurl função pega o dicionário que obtivemos acima e retorna a url de alta definição da imagem.
+- `apod_object_parser.get_media_type`: a get_media_typefunção pega o dicionário que obtivemos acima e retorna o tipo de mídia do arquivo (pode ser um vídeo de uma imagem).
+- `apod_object_parser.get_title`: a get_titlefunção pega o dicionário que pegamos acima e retorna o título da imagem.
+- `apod_object_parser.get_url`:a get_urlfunção pega o dicionário que obtivemos acima e retorna a url de definição padrão da imagem.
+
+
 
 
 
