@@ -33,7 +33,7 @@
    <h3>  📎<b> URL da Documentação:</b></h3>
  https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY<br>
 
-# :📔:	: Métodos disponíveis
+ :📔:	 Métodos disponíveis
 
 - `apod_object_parser.get_dat 1`: a get_date função pega o dicionário que obtivemos acima e retorna a data.
 - `apod_object_parser.get_explaination`: a get_explaination função pega o dicionário que obtivemos acima e retorna a explicação.
@@ -43,7 +43,7 @@
 - `apod_object_parser.get_url`: a get_url função pega o dicionário que obtivemos acima e retorna a url de definição padrão da imagem.
 
 
- #:floppy_disk: Pâramentros soliciatos por cada método.
+  : floppy_disk : Pâramentros soliciatos por cada método.
 
 - `api_key`: Demonstração: DEMO_KEY | https://api.nasa.gov/#signUp
 - `date`: É uma STRING no formado AAAA-MM-DD - exemplo: 2023-14-01. 
@@ -53,7 +53,7 @@
 - `thumbs`: É um parâmetro BOOLEANO True | False o qual indica se a API deve retornar um URL da imagem.
 
 
- #:vhs: Dados retornados para cada atributo.
+  :vhs: Dados retornados para cada atributo.
 - `resource `: Um dicionáriaa que descreve o image.
 - `title `:O título da image.
 - `date`: Data da imagem e a resposta dos valores.
@@ -64,7 +64,7 @@
 - `copyright `: O nome do detentor dos direitos autorais.
    
    <br><br>
-   # :   white_check_mark:Técnicas e Tecnologias utilizadas:
+    :   white_check_mark :Técnicas e Tecnologias utilizadas:
    - `Java `:
    - `Android `:
    - `Paradigma de orientação a objetos `:
