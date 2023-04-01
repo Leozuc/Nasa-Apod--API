@@ -44,7 +44,7 @@
 - `apod_object_parser.get_url`: a get_url função pega o dicionário que obtivemos acima e retorna a url de definição padrão da imagem.
 
 
-
+<br>
  <h3> <b>💾 Pâramentros soliciatos por cada método </b></h3>
 
 
@@ -55,7 +55,7 @@
 - `count`: Número INTEIRO positivo > 100, não pode ser utilizado com date e nem variantes. 
 - `thumbs`: É um parâmetro BOOLEANO True | False o qual indica se a API deve retornar um URL da imagem.
 
-<br><br>
+<br>
     <h3> <b>📼 Dados retornados para cada atributo. </b></h3>
   
 - `resource `: Um dicionáriaa que descreve o image.
@@ -67,7 +67,7 @@
 - `explanation `: Conceito do texto fornecido pela imagem; 
 - `copyright `: O nome do detentor dos direitos autorais.
    
-   <br><br>
+   <br>
    
      
   # ✅ Funcionalidades do projeto
