@@ -47,10 +47,10 @@
 
 - `api_key`: Demonstração: DEMO_KEY | https://api.nasa.gov/#signUp
 - `date`: É uma STRING no formado AAAA-MM-DD - exemplo: 2023-14-01. 
-- `concept_tagsUm`: É um BOOLEANO True | False a qual indica se as tags devem ser retornadas com o restante da resposta. Seu padrão é Falso.
+- `concept_tags`: É um BOOLEANO True | False a qual indica se as tags devem ser retornadas com o restante da resposta. Seu padrão é Falso.
 - `hd`: É uma parâmetro BOOLEANO True | Falso a qual indica se as imagens de alta resolução podem ou não serem retornadas, são retornados independemente. 
-- `count`:
-- `api_key`:
+- `count`: Número INTEIRO positivo > 100, não pode ser utilizado com date e nem variantes. 
+- `thumbs`: É
 - `api_key`:   
 - `api_key`:   
 - `api_key`:   
