@@ -8,14 +8,12 @@
 <h1 align="center"> Picture of the Day <img src="https://user-images.githubusercontent.com/101806906/229294885-5339f337-e9eb-4573-8fef-21fe6ed59708.png" height="90px" width="110px"/> </h1>
 </div><bR>
 
- 
-
   # :chart_with_downwards_trend: Funcionalidades do projeto
  Aplicativo em desenvolvimento para pessoas amantes de fotografias, podendo publicar lindas imagens diariamente e consulta-las quando quiser!
- Tradução: Uma biblioteca Java para acessar a API Picture of the Day baseada em HTTP do Dropbox. Esta aplicação está disponivel para celulares antigos e modernos.
+ Tradução: Uma biblioteca Java para acessar a API Picture of the Day (APOD) baseada em HTTP. Esta aplicação está disponivel para celulares antigos e modernos.
+  <br>
+ **Dupla:** Eduardo Andreolli e Leonardo Mazzuco | 3° DS | Programação Mobile (**Prof°:** Aline Firmino Brito)<br>
 
-  
-  
 <bR>
   
 
@@ -27,8 +25,12 @@
 
   <br>
   
-**Dupla:** Eduardo Andreolli e Leonardo Mazzuco | 3° DS | Programação Mobile (**Prof°:** Aline Firmino Brito)<br>
-
-API selecionada: Astronomy Picture of the Day (APOD - NASA)<br><br>
-**URL da Documentação:** https://github.com/nasa/apod-api<br>
+   # 🖇️ URL da Documentação:
+ **URL da Documentação:** https://github.com/nasa/apod-api<br>
+ 
+ <bR><br>
+   # 📎: URL da Documentação:
 **URL Acesso** https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY<br>
+
+
+
