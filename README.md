@@ -33,16 +33,31 @@
    <h3>  📎<b> URL da Documentação:</b></h3>
  https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY<br>
 
-# :hammer: Métodos disponíveis
+# :📔 :notebook_with_decorative_cover:	: Métodos disponíveis
 
 - `apod_object_parser.get_dat 1`: a get_date função pega o dicionário que obtivemos acima e retorna a data.
 - `apod_object_parser.get_explaination`: a get_explaination função pega o dicionário que obtivemos acima e retorna a explicação.
 - `apod_object_parser.get_hdurl`: a get_hdurl função pega o dicionário que obtivemos acima e retorna a url de alta definição da imagem.
 - `apod_object_parser.get_media_type`: a get_media_type função pega o dicionário que obtivemos acima e retorna o tipo de mídia do arquivo (pode ser um vídeo de uma imagem).
 - `apod_object_parser.get_title`: a get_title função pega o dicionário que pegamos acima e retorna o título da imagem.
-- `apod_object_parser.get_url`:a get_url função pega o dicionário que obtivemos acima e retorna a url de definição padrão da imagem.
+- `apod_object_parser.get_url`: a get_url função pega o dicionário que obtivemos acima e retorna a url de definição padrão da imagem.
 
 
+:📔 :notebook_with_decorative_cover:	: Pâramentros soliciatos por cada método.
 
-
-
+- `api_key`: Demonstração: DEMO_KEY | https://api.nasa.gov/#signUp
+- `date`: É uma STRING no formado AAAA-MM-DD - exemplo: 2023-14-01. 
+- `concept_tagsUm`: É um BOOLEANO True | False a qual indica se as tags devem ser retornadas com o restante da resposta. Seu padrão é Falso.
+- `hd`: É uma parâmetro BOOLEANO True | Falso a qual indica se as imagens de alta resolução podem ou não serem retornadas, são retornados independemente. 
+- `count`:
+- `api_key`:
+- `api_key`:   
+- `api_key`:   
+- `api_key`:   
+- `api_key`:   
+- `api_key`:   
+- `api_key`:
+- `api_key`:   
+- `api_key`:   
+- `api_key`:   
+- `api_key`:
