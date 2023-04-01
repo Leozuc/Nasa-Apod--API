@@ -43,7 +43,7 @@
 - `apod_object_parser.get_url`: a get_url função pega o dicionário que obtivemos acima e retorna a url de definição padrão da imagem.
 
 
-:floppy_disk: Pâramentros soliciatos por cada método.
+ #:floppy_disk: Pâramentros soliciatos por cada método.
 
 - `api_key`: Demonstração: DEMO_KEY | https://api.nasa.gov/#signUp
 - `date`: É uma STRING no formado AAAA-MM-DD - exemplo: 2023-14-01. 
@@ -53,8 +53,8 @@
 - `thumbs`: É um parâmetro BOOLEANO True | False o qual indica se a API deve retornar um URL da imagem.
 
 
-:vhs: Dados retornados para cada atributo.
-- `resourceUm `: Um dicionáriaa que descreve o image.
+ #:vhs: Dados retornados para cada atributo.
+- `resource `: Um dicionáriaa que descreve o image.
 - `title `:O título da image.
 - `date`: Data da imagem e a resposta dos valores.
 - `URL`: A URL da imagem APOD do dia.
@@ -64,8 +64,7 @@
 - `copyright `: O nome do detentor dos direitos autorais.
    
    <br><br>
-   
-   # Autores
-
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
-
+   # :   white_check_mark:Técnicas e Tecnologias utilizadas:
+   - `Java `:
+   - `Android `:
+   - `Paradigma de orientação a objetos `:
