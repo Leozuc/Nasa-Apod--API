@@ -8,7 +8,7 @@
 <h1 align="center"> Picture of the Day <img src="https://user-images.githubusercontent.com/101806906/229294885-5339f337-e9eb-4573-8fef-21fe6ed59708.png" height="90px" width="110px"/> </h1>
 </div><bR>
 
-   :chart_with_downwards_trend: Funcionalidades do projeto
+  # :chart_with_downwards_trend: Funcionalidades do projeto
  Aplicativo em desenvolvimento para pessoas amantes de fotografias, podendo publicar lindas imagens diariamente e consulta-las quando quiser!
  Tradução: Uma biblioteca Java para acessar a API Picture of the Day (APOD) baseada em HTTP. Esta aplicação está disponivel para celulares antigos e modernos.
   <br>
@@ -25,12 +25,12 @@
 
   <br>
   
- #1 <h3> <b>🖇️ URL da Documentação:</b></h3>
+ <h3> <b>🖇️ URL da Documentação:</b></h3>
  https://github.com/nasa/apod-api<br>
  
  <bR>
  
-   <h3>  📎:<b> URL da Documentação:</b></h3>
+   <h3>  📎<b> URL da Documentação:</b></h3>
  https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY<br>
 
 
