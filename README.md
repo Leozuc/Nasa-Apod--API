@@ -70,7 +70,7 @@
    <br>
    
      
-  # ✅ Funcionalidades do projeto
+  # ✅ Será usado:
    - `Java `
    - `Android `
    - `Paradigma de orientação a objetos `
