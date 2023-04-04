@@ -30,7 +30,7 @@
  
  <bR>
  
-   <h3>  📎<b> URL da Documentação:</b></h3>
+   <h3>  📎<b> URL de Acesso:</b></h3>
  https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY<br>
 
 
