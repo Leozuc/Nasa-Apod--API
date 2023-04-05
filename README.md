@@ -17,7 +17,7 @@
 <bR>
   
 
-  <details open="sumarioo">
+  <details open="sumarioo"><br>
  <summary><b>Sumário:</summary></b>
   
 - [URL da Documentação](#1)
