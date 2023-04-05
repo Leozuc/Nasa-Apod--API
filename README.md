@@ -17,12 +17,17 @@
 <bR>
   
 
-* [URL da Documentação](#1)
-* [URL de Acesso](#2)
-* [Métodos Disponíveis (endpoints) e indicação de qual/quais serão implementados na aplicação](#3)
-* [Atributos/parâmetros solicitados por cada método](#4)
-* [Dados retornados para cada método (Dicionário de dados)](#5)
+  <details open="sumarioo">
+ <summary><b>Sumário:</summary></b>
+  
+- [URL da Documentação](#1)
+- [URL de Acesso](#2)
+- [Métodos Disponíveis (endpoints) e indicação de qual/quais serão implementados na aplicação](#3)
+- [Atributos/parâmetros solicitados por cada método](#4)
+- [Dados retornados para cada método (Dicionário de dados)](#5)
 
+</details>
+  
   <br>
   
  <h3> <b>🖇️ URL da Documentação:</b></h3>
