@@ -82,6 +82,10 @@
    
    <br><br>
   
-   
+   ## :chart_with_upwards_trend:  Diagrama de Classes
+<details close="classe">
+<summary><b>Diagrama de Classes</summary></b>
+<h1 align="center"><img src= "" heigth="800px" width="1000px"/></h1>
+</details>
    
   
