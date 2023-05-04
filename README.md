@@ -74,9 +74,11 @@
    
    <br>
    
-   ><br>
+  <br>
   
-   <h3>  📂  Diagrama de Classes e Banco de Dados</h3>
+ <h3>  📂  Diagrama de Classes e Banco de Dados</h3>
+    ## 📂   Diagrama de Classes e Banco de Dados
+
 <details close="classe">
   
   
@@ -119,7 +121,7 @@
   
   
 
-  # ✅ Será usado:
+  ## ✅ Será usado:
    - `Java `
    - `Android `
    - `Paradigma de orientação a objetos `
