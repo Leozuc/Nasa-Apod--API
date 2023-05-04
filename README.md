@@ -83,7 +83,7 @@
    
    <br><br>
   
-   ## 📂:  Diagrama de Classes e Banco de Dados
+   📂:  Diagrama de Classes e Banco de Dados
 <details close="classe">
   
   
@@ -100,7 +100,7 @@
 
   
    
-   <br><br>
+   <br>
    
    
   ## :chart_with_downwards_trend:   Protótipo - Mapa de Navegação e suas respectivas funcionalidades:
