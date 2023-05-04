@@ -79,3 +79,8 @@
    - `Java `
    - `Android `
    - `Paradigma de orientação a objetos `
+   
+   <br><bt>
+   <details open="sumarioo"><br>
+   </details>
+
