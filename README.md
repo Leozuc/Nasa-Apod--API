@@ -99,7 +99,11 @@
      
 
   
-  # :chart_with_downwards_trend:   Protótipo - Mapa de Navegação e suas respectivas funcionalidades:
+   
+   
+   
+   
+  ## :chart_with_downwards_trend:   Protótipo - Mapa de Navegação e suas respectivas funcionalidades:
 
 <details close="Mapa"> 
   
@@ -110,7 +114,7 @@
   </details>
    
    
- 
+
    
  <details close="Mapa"> 
   
@@ -118,8 +122,7 @@
 <h1 align="center"><img src= "" heigth="800px" width="1000px"/></h1>
   </details>
    
-  
-   
+
    
    
    <details close="Mapa"> 
