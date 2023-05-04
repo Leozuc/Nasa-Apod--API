@@ -91,15 +91,12 @@
 <h1 align="center"><img src= "https://user-images.githubusercontent.com/101806906/236333781-351b50b2-5cfb-44c1-82ca-3d90379c73d6.png" heigth="800px" width="1000px"/></h1>
 </details>
 
-     
-
-  
    
    <br>
    
    
   ## :chart_with_downwards_trend:   Protótipo - Mapa de Navegação e suas respectivas funcionalidades:
-
+<br>
 <details close="Mapa"> 
   
 <summary><b>Protótipo:</summary></b>
@@ -108,9 +105,21 @@
     
   </h3> <BR><BR>
 <h1 align="center"><img src= "" heigth="800px" width="1000px"/></h1>
+  
+  
   </details>
    
-   
+   ![Tela - Boa Vindas](https://user-images.githubusercontent.com/101806906/236351212-2041bde1-dc0d-43ad-80af-d283f8e7f46d.png)
+![Telas - _Splash_](https://user-images.githubusercontent.com/101806906/236351222-a5abb3b2-9207-4171-8d5a-5feb8cd3bdc2.png)
+![Tela - Cadastro](https://user-images.githubusercontent.com/101806906/236351224-70c9b065-4c5a-499a-a92c-d2ef1c0f6ae6.png)
+![Tela - Consulta API](https://user-images.githubusercontent.com/101806906/236351225-e2110450-f9cc-436e-943a-46275cbf5f1e.png)
+![Tela - Detalhada](https://user-images.githubusercontent.com/101806906/236351228-155cfa42-4abd-4650-83b4-2d8488548ee5.png)
+![Tela - Favoritos](https://user-images.githubusercontent.com/101806906/236351230-9ebaa95f-8126-4745-8c39-e5be76c2ff04.png)
+![Tela - Home](https://user-images.githubusercontent.com/101806906/236351231-4100aeb6-5aff-4b97-b6f8-f39674a57504.png)
+![Tela - Login](https://user-images.githubusercontent.com/101806906/236351233-63767aaf-f138-42a6-a73d-a63709575c4b.png)
+![Tela - Resultado](https://user-images.githubusercontent.com/101806906/236351236-eb157dd3-a684-4e02-baf2-ac3cc03a6bd6.png)
+![Tela - Usuário](https://user-images.githubusercontent.com/101806906/236351238-47b434fe-6e74-4eeb-ae80-2d6b7b3f3c4e.png)
+
 
    
  <details close="Mapa"> 
