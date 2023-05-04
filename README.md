@@ -17,7 +17,7 @@
 <bR>
   
 
-  <details open="sumarioo"><br>
+ <details open="sumarioo"><br>
  <summary><b>Sumário:</summary></b>
   
 - [URL da Documentação](#1)
@@ -81,7 +81,11 @@
    - `Paradigma de orientação a objetos `
    
    <br><br>
-  
    
+## :chart_with_upwards_trend:  Diagrama de Classes e Diagrama do Banco de Dados
+<details close="classe">
+<summary><b>Diagrama de Classes</summary></b>
+<h1 align="center"><img src= "" heigth="800px" width="1000px"/></h1>
+</details>
    
   
