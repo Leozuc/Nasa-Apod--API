@@ -82,8 +82,11 @@
    
    <br><bt>
    
-   <details open="Diagrama de Classe:"><br>
-     ![image](https://user-images.githubusercontent.com/101806906/236326326-0f91a093-3890-4b97-801c-8fc7fb18f09e.png)
+   <details open="Diagrama"><br>
+ <summary><b>Diagrama de Classes:</summary></b>
+     
+     ![Badge em Confi]((https://user-images.githubusercontent.com/101806906/236326326-0f91a093-3890-4b97-801c-8fc7fb18f09e.png)
+     
 
    </details>
 
