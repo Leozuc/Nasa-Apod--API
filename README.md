@@ -103,14 +103,10 @@
   
   <h3> Visualização do Protótipo: https://www.figma.com/file/BollsJOdyP4N2FE1RkYp7M/Untitled?node-id=0-1&t=yyswIDWRms1SFtfF-0
     
-  </h3> <BR><BR>
+  </h3> <BR>
 <h1 align="center"><img src= "https://user-images.githubusercontent.com/101806906/236352136-98c04b94-4f28-4523-b87c-7e5cbfb97c6b.png" heigth="800px" width="1000px"/></h1>
   <br>
   
-  ![telas](https://user-images.githubusercontent.com/101806906/236352136-98c04b94-4f28-4523-b87c-7e5cbfb97c6b.png)
-
-  
-
   </details>
    
  
