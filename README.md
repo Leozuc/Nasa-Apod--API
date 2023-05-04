@@ -81,6 +81,9 @@
    - `Paradigma de orientação a objetos `
    
    <br><bt>
-   <details open="sumarioo"><br>
+   
+   <details open="Diagrama de Classe:"><br>
+     ![image](https://user-images.githubusercontent.com/101806906/236326326-0f91a093-3890-4b97-801c-8fc7fb18f09e.png)
+
    </details>
 
