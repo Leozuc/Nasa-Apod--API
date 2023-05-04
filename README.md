@@ -89,4 +89,4 @@
 
    </details>
 
-   <h1 align="center"><img src="https://user-images.githubusercontent.com/101806906/236328725-c614fad6-2a4d-42d6-92c7-d3a3e7b0f27c.png" height="350px" width="750px"/> </h1>
+   <h1 align="center"><img src="https://user-images.githubusercontent.com/101806906/236328725-c614fad6-2a4d-42d6-92c7-d3a3e7b0f27c.png" height="350px" width="700px"/> </h1>
