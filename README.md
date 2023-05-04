@@ -82,7 +82,7 @@
    
    <br><bt>
    
-     # :chart_with_downwards_trend: Funcionalidades do projeto
+     # :chart_with_downwards_trend: Diagrama de Classes e Banco de Dados
    
    <details close="classe">
 <summary><b>Diagrama de Classes</summary></b>
