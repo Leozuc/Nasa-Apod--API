@@ -82,6 +82,8 @@
    
    <br><bt>
    
+     # :chart_with_downwards_trend: Funcionalidades do projeto
+   
    <details close="classe">
 <summary><b>Diagrama de Classes</summary></b>
 <h1 align="center"><img src= "https://user-images.githubusercontent.com/101806906/236326326-0f91a093-3890-4b97-801c-8fc7fb18f09e.png" heigth="800px" width="1000px"/></h1>
