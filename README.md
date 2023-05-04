@@ -125,7 +125,7 @@
    <details close="Mapa"> 
   
 <summary><b>Descrição e funcionalidades da aplicação:</summary></b>
-     <h3>mete o texto aq</h3><BR><BR>
+     <h3 <i class="devicon-firebase-plain"></i>>mete o texto aq</h3><BR><BR>
   </details>
    
 
