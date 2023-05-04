@@ -83,7 +83,7 @@
    
    <br><br>
   
-   ## :chart_with_upwards_trend:  Diagrama de Classes e Banco de Dados
+   # :chart_with_upwards_trend:  Diagrama de Classes e Banco de Dados
 <details close="classe">
   
   
@@ -99,7 +99,7 @@
      
 
   
-  ## :chart_with_upwards_trend:   Protótipo - Mapa de Navegação e suas respectivas funcionalidades:
+  # :chart_with_downwards_trend:   Protótipo - Mapa de Navegação e suas respectivas funcionalidades:
 
 <details close="Mapa"> 
   
