@@ -84,7 +84,7 @@
    
    <details open="Diagrama"><br>
 
-     <h1 align="center"><img src="https://user-images.githubusercontent.com/101806906/236326326-0f91a093-3890-4b97-801c-8fc7fb18f09e.png" height="110px" width="130px"/> </h1>
+     <h1 align="center"><img src="https://user-images.githubusercontent.com/101806906/236326326-0f91a093-3890-4b97-801c-8fc7fb18f09e.png" height="300px" width="400px"/> </h1>
      
      
 
