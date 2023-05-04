@@ -96,7 +96,10 @@
   <summary><b>Diagrama de Banco de Dados</summary></b>
 <h1 align="center"><img src= "https://user-images.githubusercontent.com/101806906/236333781-351b50b2-5cfb-44c1-82ca-3d90379c73d6.png" heigth="800px" width="1000px"/></h1>
 </details>
-   
+
+      ## 💾  Protótipo - Mapa de Navegação e suas respectivas funcionalidades:
+<details close="classe">
+  
 
    
   
