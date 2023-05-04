@@ -75,8 +75,7 @@
    <br>
    
    
-   
-     
+
   # ✅ Será usado:
    - `Java `
    - `Android `
@@ -97,10 +96,26 @@
 <h1 align="center"><img src= "https://user-images.githubusercontent.com/101806906/236333781-351b50b2-5cfb-44c1-82ca-3d90379c73d6.png" heigth="800px" width="1000px"/></h1>
 </details>
 
-      ## :💾:  Protótipo - Mapa de Navegação e suas respectivas funcionalidades:
+     
 
   
+  ## :chart_with_upwards_trend:   Protótipo - Mapa de Navegação e suas respectivas funcionalidades:
 
+    <details close="prot"> 
+  
+<summary><b>Protótipo:</summary></b>
+      
+      <h1>Url do Protótipo: coloca o link do figma</h1>      
+<h1 align="center"><img src= "      bota o url da img aq  " heigth="800px" width="1000px"/></h1>
+      
+      
+  </details>
+   
+ <details close="Mapa"> 
+  
+<summary><b>Mapa de Navegação:</summary></b>
+<h1 align="center"><img src= "      bota o url da img aq  " heigth="800px" width="1000px"/></h1>
+  </details>
    
   
    
