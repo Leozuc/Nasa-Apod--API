@@ -123,7 +123,7 @@
    <details close="Mapa"> 
   
 <summary><b>Descrição e funcionalidades da aplicação:</summary></b>
-     <h3 <i class="devicon-firebase-plain"></i>>mete o texto aq</h3><BR><BR>
+     <h3 <i class="devicon-firebase-plain"></i>     A aplicação de baseia em um amplo conjunto de dados referentes as belezas da astronomia. Baseando-se no conceito proposto, foi escolhido uma API (POD - NASA) que se encaixe perfeitamente, a qual tem o objetivo de fornecer imagens sobre distintas paisagens do céu. Com o login feito, o usuário terá acesso a grade de imagens que a API proporciona, podendo consulta-las aleatoriamente ou por datas, recebendo um URL como resultado para poder visualiza-las e favorita-las quando quiser. Ademais, a aplicação possui telas informativas referentes aos sistemas galácticos, com o intuito de agregar informações mais relevantes e precisas.</h3><BR><BR>
   </details>
    
   <br>
