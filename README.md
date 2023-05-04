@@ -23,8 +23,12 @@
 - [URL da Documentação](#1)
 - [URL de Acesso](#2)
 - [Métodos Disponíveis (endpoints) e indicação de qual/quais serão implementados na aplicação](#3)
-- [Atributos/parâmetros solicitados por cada método](#4)
+- [Atributos/Parâmetros solicitados por cada método](#4)
 - [Dados retornados para cada método (Dicionário de dados)](#5)
+- [Diagrama de Classes e Diagrama de Banco de Dado)](#6)
+- [Mapa de Navegação da Aplicação)](#7)
+- [URL/Fotos - Protótipo)](#7)
+
 
 </details>
   
