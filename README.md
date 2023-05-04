@@ -85,7 +85,9 @@
    ## :chart_with_upwards_trend:  Diagrama de Classes
 <details close="classe">
 <summary><b>Diagrama de Classes</summary></b>
-<h1 align="center"><img src= "" heigth="800px" width="1000px"/></h1>
+<h1 align="center"><img src= "https://user-images.githubusercontent.com/101806906/236333540-a177615d-d392-4181-8856-78278e4c858d.png" heigth="800px" width="1000px"/></h1>
 </details>
    
   
+   
+
