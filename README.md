@@ -101,20 +101,19 @@
   
   ## :chart_with_upwards_trend:   Protótipo - Mapa de Navegação e suas respectivas funcionalidades:
 
-    <details close="prot"> 
+<details close="Mapa"> 
   
 <summary><b>Protótipo:</summary></b>
-      
-      <h1>Url do Protótipo: coloca o link do figma</h1>      
-<h1 align="center"><img src= "      bota o url da img aq  " heigth="800px" width="1000px"/></h1>
-      
-      
+<h1 align="center"><img src= "" heigth="800px" width="1000px"/></h1>
   </details>
+   
+   
+   
    
  <details close="Mapa"> 
   
 <summary><b>Mapa de Navegação:</summary></b>
-<h1 align="center"><img src= "      bota o url da img aq  " heigth="800px" width="1000px"/></h1>
+<h1 align="center"><img src= "" heigth="800px" width="1000px"/></h1>
   </details>
    
   
