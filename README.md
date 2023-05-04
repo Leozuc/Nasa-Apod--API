@@ -105,7 +105,7 @@
   
 <summary><b>Protótipo:</summary></b>
   
-<h1>wEGGGEGEGGE</h1:
+  <h3>Url do Protótipo: joga o link aq</h3> <BR><BR>
 <h1 align="center"><img src= "" heigth="800px" width="1000px"/></h1>
   </details>
    
@@ -125,7 +125,7 @@
    <details close="Mapa"> 
   
 <summary><b>Descrição e funcionalidades da aplicação:</summary></b>
-<h1>wEGGGEGEGGE</h1:
+     <h3>mete o texto aq</h3><BR><BR>
   </details>
    
 
