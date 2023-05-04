@@ -84,9 +84,8 @@
    
    <details open="Diagrama"><br>
 
-     <h1 align="center"><img src="https://user-images.githubusercontent.com/101806906/236326326-0f91a093-3890-4b97-801c-8fc7fb18f09e.png" height="350px" width="720px"/> </h1>
+     <h1 align="center"><img src="https://user-images.githubusercontent.com/101806906/236326326-0f91a093-3890-4b97-801c-8fc7fb18f09e.png" height="350px" width="750px"/> </h1>
      
-     ![WhatsApp Image 2023-05-04 at 17 58 38](https://user-images.githubusercontent.com/101806906/236327798-ee4d3fa5-4f4c-45f8-b726-f18d90a38ccf.jpeg)
 
 
    </details>
