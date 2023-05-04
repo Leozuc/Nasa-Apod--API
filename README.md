@@ -83,7 +83,7 @@
    
    <br><br>
   
-   ## :chart_with_upwards_trend:  Diagrama de Classes e Banco de Dados
+   ## 📂:  Diagrama de Classes e Banco de Dados
 <details close="classe">
   
   
