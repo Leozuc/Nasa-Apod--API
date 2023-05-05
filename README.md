@@ -121,10 +121,9 @@
   
 <summary><b>Mapa de Navegação:</summary></b>
    
-    <h3> Caso tenha duvidas, acesse o nosso protótipo: https://www.figma.com/file/BollsJOdyP4N2FE1RkYp7M/Untitled?node-id=0-1&t=yyswIDWRms1SFtfF-0
+    <p>Caso tenha duvidas, acesse o nosso protótipo: https://www.figma.com/file/BollsJOdyP4N2FE1RkYp7M/Untitled?node-id=0-1&t=yyswIDWRms1SFtfF-0
     
-  </h3> <BR>
-
+  </p> 
 <h1 align="center"><img src= "https://user-images.githubusercontent.com/101806906/236353038-ebd8abbf-4a9c-4c59-a820-be16ef267df7.png" heigth="800px" width="1000px"/></h1>
   </details>
   
