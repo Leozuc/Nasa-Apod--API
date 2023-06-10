@@ -2,6 +2,7 @@
 
 ![Badge em Confi](http://img.shields.io/static/v1?label=FUNCIONALIDADE&message=%20Receber%20fotos%20diárias%20e%20consultar%20imagens%20antecessoras%20ao%20dia%20atual%20&color=blueviolet&style=for-the-badge)
 
+![logon](https://github.com/Mazzuc/Nasa-Apod--API/assets/101806906/29402ae8-0d29-41ca-9c51-1bc870d5b2e5)
 
 <div>
 
