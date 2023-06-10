@@ -5,7 +5,7 @@
 
 <div>
 
-<h1 align="center"> Picture of the Day <img src="https://github.com/Mazzuc/Nasa-Apod--API/assets/101806906/29402ae8-0d29-41ca-9c51-1bc870d5b2e5" height="110px" width="130px"/> </h1>
+<h1 align="center"> Picture of the Day <img src="https://github.com/Mazzuc/Nasa-Apod--API/assets/101806906/29402ae8-0d29-41ca-9c51-1bc870d5b2e5" height="200px" width="200px"/> </h1>
 </div><bR>
 
   # :chart_with_downwards_trend: Funcionalidades do projeto
