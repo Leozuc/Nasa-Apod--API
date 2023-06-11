@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Planetzuc</string>
+
+<!--Tela Login-->
+    <string name="ExploreUni">Explore o Universo</string>
+    <string name="ExplicationUni">Atualmente ela trabalha em conjunto com a Agência Espacial Europeia, com a Agência Espacial Federal Russa e com alguns países.</string>
+    <string name="btn_cadastrar">CADASTAR</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="explore_o_universo">Explore o universo</string>
+
+
+    <string name="password1"></string>
+    <string name="atualmente_ela_trabalha_em_conjunto_com_a_ag_ncia_espacial_europeia_com_a_ag_ncia_espacial_federal_russa_e_com_alguns_pa_ses">Atualmente ela trabalha em conjunto com a Agência Espacial Europeia, com a Agência Espacial Federal Russa e com alguns países.</string>
+    <string name="todo">TODO</string>
+    <string name="cadastrar">cadastrar</string>
+    <string name="login">LOGIN</string>
+    <string name="cadastrar1">CADASTRE-SE</string>
+
+
+</resources>

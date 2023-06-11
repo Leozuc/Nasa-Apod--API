@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundao">
+
+<!--
+    <LinearLayout
+        android:id="@+id/linearLayout6"
+        android:layout_width="300dp"
+        android:layout_height="500dp"
+        android:layout_marginTop="-70dp"
+        android:background="@drawable/estilo_sombra"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.488">
+
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="300dp">
+
+            <ImageView
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="35dp"
+                android:background="@drawable/planetasombra" />
+
+            <LinearLayout
+                android:layout_width="150dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="-200dp"
+                android:layout_marginTop="200dp"
+                android:background="@drawable/botaoo">
+
+                <Button
+                    style="@style/Widget.AppCompat.Button"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:background="@color/tranps1"
+                    android:text="Habitável"
+                    android:textColor="#53105E"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:layout_marginLeft="-300dp"
+            android:layout_marginTop="280dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="PLANETA"
+                android:textAlignment="center"
+                android:textColor="@color/cinza"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="-300dp"
+                android:layout_marginTop="30dp"
+                android:text="Zuc Planterra"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="23dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="210dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="-250dp"
+                android:layout_marginTop="60dp"
+                android:text="O planeta Terra é um dos quatro planetas telúricos (de formação rochosa) do Sistema Solar, sendo os outro: Mercúrio, Vênus e Marte."
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="15dp" />
+
+
+        </LinearLayout>
+    </LinearLayout>-->
+    <Button
+        android:id="@+id/voltar"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="48dp"
+        android:background="@drawable/setavoltar"
+        android:backgroundTint="#FFFFFF"
+        android:backgroundTintMode="add"
+        android:textColor="@color/white"
+        android:textSize="50dp"
+        android:textStyle="normal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.069"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:rippleColor="#FFFFFF" />
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="107dp"
+        android:layout_height="17dp"
+        android:background="@drawable/logo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/imageView7"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.064" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:background="@drawable/logon"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.906"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.024" />
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout11"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toTopOf="@+id/horizontalScrollView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.695">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Procure um"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout4"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="-390dp"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/btn_logar"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintCircleRadius="30dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.496"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/linearLayout3">
+
+            <Button
+                android:id="@+id/btn_home"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="250dp"
+                android:layout_height="50dp"
+                android:layout_marginBottom="144dp"
+                android:text="PLANETA"
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.773"
+                app:layout_constraintStart_toStartOf="parent"
+                tools:text="@string/login" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <HorizontalScrollView
+        android:id="@+id/horizontalScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:layout_marginStart="4dp"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.81">
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="500dp"
+            android:layout_marginLeft="55dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/linearLayout6"
+                android:layout_width="300dp"
+                android:layout_height="500dp"
+                android:background="@drawable/estilo_sombra"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.495"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.488">
+
+
+                <LinearLayout
+                    android:layout_width="300dp"
+                    android:layout_height="300dp">
+
+                    <ImageView
+                        android:layout_width="250dp"
+                        android:layout_height="250dp"
+                        android:layout_marginLeft="25dp"
+                        android:layout_marginTop="35dp"
+                        android:background="@drawable/planetasombra" />
+
+                    <LinearLayout
+                        android:layout_width="150dp"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="-200dp"
+                        android:layout_marginTop="200dp"
+                        android:background="@drawable/botaoo">
+
+                        <Button
+                            android:id="@+id/info_planeta"
+                            style="@style/Widget.AppCompat.Button"
+                            android:layout_width="150dp"
+                            android:layout_height="50dp"
+                            android:background="@color/tranps1"
+                            android:text="Habitável"
+                            android:textColor="#53105E"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginLeft="-300dp"
+                    android:layout_marginTop="280dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="PLANETA"
+                        android:textAlignment="center"
+                        android:textColor="@color/cinza"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="-300dp"
+                        android:layout_marginTop="30dp"
+                        android:text="Zuc Planterra"
+                        android:textAlignment="center"
+                        android:textColor="@color/white"
+                        android:textSize="23dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="210dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="-250dp"
+                        android:layout_marginTop="60dp"
+                        android:text="O planeta Terra é um dos quatro planetas telúricos (de formação rochosa) do Sistema Solar, sendo os outro: Mercúrio, Vênus e Marte."
+                        android:textAlignment="center"
+                        android:textColor="@color/white"
+                        android:textSize="15dp" />
+
+
+                </LinearLayout>
+            </LinearLayout>
+
+
+            <ImageView
+                android:layout_width="60dp"
+                android:layout_height="30dp"
+                android:background="@color/tranps1" />
+
+            <LinearLayout
+                android:id="@+id/linearLayout8"
+                android:layout_width="300dp"
+                android:layout_height="500dp"
+                android:background="@drawable/estilo_sombra"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.495"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.488">
+
+
+                <LinearLayout
+                    android:layout_width="300dp"
+                    android:layout_height="300dp">
+
+                    <ImageView
+                        android:layout_width="230dp"
+                        android:layout_height="230dp"
+                        android:layout_marginLeft="25dp"
+                        android:layout_marginTop="35dp"
+                        android:background="@drawable/estrelaum" />
+
+                    <LinearLayout
+                        android:layout_width="150dp"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="-200dp"
+                        android:layout_marginTop="200dp"
+                        android:background="@drawable/botaoo">
+
+                        <Button
+                            style="@style/Widget.AppCompat.Button"
+                            android:layout_width="150dp"
+                            android:layout_height="50dp"
+                            android:background="@color/tranps1"
+                            android:text="Habitável"
+                            android:textColor="#53105E"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginLeft="-300dp"
+                    android:layout_marginTop="280dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="PLANETA"
+                        android:textAlignment="center"
+                        android:textColor="@color/cinza"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="-300dp"
+                        android:layout_marginTop="30dp"
+                        android:text="Zuc Planterra"
+                        android:textAlignment="center"
+                        android:textColor="@color/white"
+                        android:textSize="23dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="210dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="-250dp"
+                        android:layout_marginTop="60dp"
+                        android:text="O planeta Terra é um dos quatro planetas telúricos (de formação rochosa) do Sistema Solar, sendo os outro: Mercúrio, Vênus e Marte."
+                        android:textAlignment="center"
+                        android:textColor="@color/white"
+                        android:textSize="15dp" />
+
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="60dp"
+                android:layout_height="30dp"
+                android:background="@color/tranps1" />
+
+            <LinearLayout
+                android:id="@+id/linearLayout9"
+                android:layout_width="300dp"
+                android:layout_height="500dp"
+                android:background="@drawable/estilo_sombra"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.495"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.488">
+
+
+                <LinearLayout
+                    android:layout_width="300dp"
+                    android:layout_height="300dp">
+
+                    <ImageView
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"
+                        android:layout_marginLeft="50dp"
+                        android:layout_marginTop="35dp"
+                        android:background="@drawable/planetatres" />
+
+                    <LinearLayout
+                        android:layout_width="150dp"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="-180dp"
+                        android:layout_marginTop="200dp"
+                        android:background="@drawable/botaoo">
+
+                        <Button
+                            style="@style/Widget.AppCompat.Button"
+                            android:layout_width="150dp"
+                            android:layout_height="50dp"
+                            android:background="@color/tranps1"
+                            android:text="Habitável"
+                            android:textColor="#53105E"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginLeft="-300dp"
+                    android:layout_marginTop="280dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="PLANETA"
+                        android:textAlignment="center"
+                        android:textColor="@color/cinza"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="-300dp"
+                        android:layout_marginTop="30dp"
+                        android:text="Zuc Planterra"
+                        android:textAlignment="center"
+                        android:textColor="@color/white"
+                        android:textSize="23dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="210dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="-250dp"
+                        android:layout_marginTop="60dp"
+                        android:text="O planeta Terra é um dos quatro planetas telúricos (de formação rochosa) do Sistema Solar, sendo os outro: Mercúrio, Vênus e Marte."
+                        android:textAlignment="center"
+                        android:textColor="@color/white"
+                        android:textSize="15dp" />
+
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="60dp"
+                android:layout_height="30dp"
+                android:background="@color/tranps1" />
+
+            <LinearLayout
+                android:id="@+id/linearLayout7"
+                android:layout_width="300dp"
+                android:layout_height="500dp"
+                android:background="@drawable/estilo_sombra"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.495"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.488">
+
+
+                <LinearLayout
+                    android:layout_width="300dp"
+                    android:layout_height="300dp">
+
+                    <ImageView
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"
+                        android:layout_marginLeft="54dp"
+                        android:layout_marginTop="35dp"
+                        android:background="@drawable/estreladois" />
+
+                    <LinearLayout
+                        android:layout_width="150dp"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="-180dp"
+                        android:layout_marginTop="200dp"
+                        android:background="@drawable/botaoo">
+
+                        <Button
+                            style="@style/Widget.AppCompat.Button"
+                            android:layout_width="150dp"
+                            android:layout_height="50dp"
+                            android:background="@color/tranps1"
+                            android:text="Habitável"
+                            android:textColor="#53105E"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginLeft="-300dp"
+                    android:layout_marginTop="280dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="PLANETA"
+                        android:textAlignment="center"
+                        android:textColor="@color/cinza"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="-300dp"
+                        android:layout_marginTop="30dp"
+                        android:text="Zuc Planterra"
+                        android:textAlignment="center"
+                        android:textColor="@color/white"
+                        android:textSize="23dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="210dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="-250dp"
+                        android:layout_marginTop="60dp"
+                        android:text="O planeta Terra é um dos quatro planetas telúricos (de formação rochosa) do Sistema Solar, sendo os outro: Mercúrio, Vênus e Marte."
+                        android:textAlignment="center"
+                        android:textColor="@color/white"
+                        android:textSize="15dp" />
+
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="110dp"
+                android:layout_height="30dp"
+                android:background="@color/tranps1" />
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+    <LinearLayout
+        android:id="@+id/linearLayout5"
+        android:layout_width="350dp"
+        android:layout_height="70dp"
+        android:background="@drawable/home"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.944">
+
+
+        <LinearLayout
+            android:layout_width="120dp"
+            android:layout_height="70dp">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/iconhomer">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp"
+                android:text="HOME"
+                android:textColor="#590B67"
+                android:textSize="17dp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="80dp"
+            android:layout_height="70dp">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/iconbuscar">
+
+            </ImageView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="80dp"
+            android:layout_height="70dp">
+
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/iconcoracaor">
+
+
+            </ImageView>
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="80dp"
+            android:layout_height="70dp">
+
+            <ImageView
+                android:id="@+id/btnuser"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/iconperfilr">
+
+            </ImageView>
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
