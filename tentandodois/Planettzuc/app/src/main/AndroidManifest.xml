@@ -36,6 +36,15 @@
         <activity
             android:name=".Usuario"
             android:exported="false" />
+      <activity
+          android:name=".buscaplaneta"
+          android:exported="false" />
+      <activity
+          android:name=".Uranoapi"
+          android:exported="false" />
+      <activity
+          android:name=".Terraapi"
+          android:exported="false" />
 
         <activity
             android:name=".MainActivity"
@@ -47,7 +56,10 @@
             </intent-filter>
         </activity>
 
-        <receiver android:name=".WidgetPlaneta" android:exported="true">
+<!--
+    <activity android:name="Apiconex" />-->
+
+      <receiver android:name=".WidgetPlaneta" android:exported="true">
         <intent-filter>
             <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
         </intent-filter>

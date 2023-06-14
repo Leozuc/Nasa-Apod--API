@@ -19,7 +19,7 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-public class Apiconex extends AppCompatActivity {
+public class Uranoapi extends AppCompatActivity {
 
     private TextView nameTextView;
     private TextView taglineTextView;
@@ -36,7 +36,7 @@ public class Apiconex extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.apiconex);
+        setContentView(R.layout.uranoapi);
 
         nameTextView = findViewById(R.id.nameTextView);
         taglineTextView = findViewById(R.id.taglineTextView);
@@ -45,10 +45,10 @@ public class Apiconex extends AppCompatActivity {
         descriptionTextView = findViewById(R.id.descriptionTextView);
         distanceFromSunTextView = findViewById(R.id.distanceFromSunTextView);
         yearLengthTextView = findViewById(R.id.yearLengthTextView);
-       // namesakeTextView = findViewById(R.id.namesakeTextView);
+        // namesakeTextView = findViewById(R.id.namesakeTextView);
         textureUrl = findViewById(R.id.spaceTextureImageView);
 
-        String planetUrl = "https://planets-17f2.onrender.com/planets/getPlanet?name=mars";
+        String planetUrl = "https://planets-17f2.onrender.com/planets/getPlanet?name=uranus";
         FetchPlanetDataTask task = new FetchPlanetDataTask();
         task.execute(planetUrl);
     }
@@ -102,22 +102,22 @@ public class Apiconex extends AppCompatActivity {
             if (planetData != null) {
                 nameTextView.setText(planetData.getName());
                 taglineTextView.setText(planetData.getTagline());
-                Glide.with(Apiconex.this)
+                Glide.with(Uranoapi.this)
                         .load(planetData.getTagline_icon())
                         .circleCrop()
                         .into(taglineIconImageView);
 
                 // Configurar os campos extras
-                Glide.with(Apiconex.this)
+                Glide.with(Uranoapi.this)
                         .load(planetData.getPicture())
                         .into(pictureImageView);
 
                 descriptionTextView.setText(planetData.getDescription());
                 distanceFromSunTextView.setText(planetData.getDistanceFromSun());
                 yearLengthTextView.setText(planetData.getYearLength());
-             //   namesakeTextView.setText(planetData.getNamesake());
+                //   namesakeTextView.setText(planetData.getNamesake());
 
-                Glide.with(Apiconex.this)
+                Glide.with(Uranoapi.this)
                         .load(planetData.getTextureUrl())
                         .into(textureUrl);
             }

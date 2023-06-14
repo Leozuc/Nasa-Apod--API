@@ -138,6 +138,7 @@
     <LinearLayout
         android:id="@+id/linearLayout11"
         android:layout_width="match_parent"
+        android:layout_marginTop="30dp"
         android:layout_height="100dp"
         android:orientation="horizontal"
         app:layout_constraintEnd_toEndOf="parent"
@@ -734,6 +735,7 @@
             android:layout_height="70dp">
 
             <ImageView
+                android:id="@+id/buscaplaneta"
                 android:layout_width="40dp"
                 android:layout_height="40dp"
                 android:layout_marginLeft="20dp"

@@ -16,7 +16,7 @@ import java.io.IOException;
 
 public class Usuario extends AppCompatActivity {
 
-        View botao, botao2, botao3, botao4;
+        View botao, botao2, botao3, botao4, botao5;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,8 +24,6 @@ public class Usuario extends AppCompatActivity {
         setContentView(R.layout.usuario);
 
         botao = findViewById(R.id.info_planeta);
-
-
         botao.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -36,8 +34,6 @@ public class Usuario extends AppCompatActivity {
         });
 
         botao2 = findViewById(R.id.btnuser);
-
-
         botao2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -48,27 +44,34 @@ public class Usuario extends AppCompatActivity {
         });
 
         botao3 = findViewById(R.id.voltar);
-
-
         botao3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
 
-                Intent intent = new Intent(Usuario.this,Home.class);
+                Intent intent = new Intent(Usuario.this,Terraapi.class);
                 startActivity(intent);
             }
         });
 
         botao4 = findViewById(R.id.btn_teste);
-
-
         botao4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
 
-                Intent intent = new Intent(Usuario.this,Apiconex.class);
+                Intent intent = new Intent(Usuario.this, Apiconex.class);
                 startActivity(intent);
             }
         });
 
+
+
+        botao5 = findViewById(R.id.buscaplaneta);
+        botao5.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+                Intent intent = new Intent(Usuario.this, buscaplaneta.class);
+                startActivity(intent);
+            }
+        });
     }}
