@@ -10,6 +10,21 @@
   <h1 align="center"> Picture of the Day  </h1>
 </div><bR>
 
+
+  ## :chart_with_downwards_trend:   Vídeo do aplicativo em funcionamento - Planetas:
+<br>
+<details close="Mapa"> 
+
+  
+<summary><b>Url do vídeo:</summary></b>
+     <h3 <i class="devicon-firebase-plain"></i>     A aplicação de baseia em um amplo conjunto de dados referentes as belezas da astronomia. Baseando-se no conceito proposto, foi escolhido uma API (POD - NASA) que se encaixe perfeitamente, a qual tem o objetivo de fornecer imagens sobre distintas paisagens do céu. Com o login feito, o usuário terá acesso a grade de imagens que a API proporciona, podendo consulta-las aleatoriamente ou por datas, recebendo um URL como resultado para poder visualiza-las e favorita-las quando quiser. Ademais, a aplicação possui telas informativas referentes aos sistemas galácticos, com o intuito de agregar informações mais relevantes e precisas.</h3><BR><BR>
+       </details>
+
+
+
+
+
+
   # :chart_with_downwards_trend: Funcionalidades do projeto
  Aplicativo em desenvolvimento para pessoas amantes de fotografias, podendo publicar lindas imagens diariamente e consulta-las quando quiser!
  Tradução: Uma biblioteca Java para acessar a API Picture of the Day (APOD) baseada em HTTP. Esta aplicação está disponivel para celulares antigos e modernos.
