@@ -19,6 +19,8 @@
      <p <i class="devicon-firebase-plain"></i> Link do vídeo: colocaaqui.com.br</p><BR><BR>
        </details>
 
+ <details close="Mapa"> 
+
 <summary><b>Nova API:</summary></b>
      <p <i class="devicon-firebase-plain"></i>Devido à nossa antiga API (APOD - Nasa) ficar fora de ar, tivemos que escolher
   outra API para substituí-la rapidamente e, como tal, escolhemos a: Planets Apir</p><BR><BR>
