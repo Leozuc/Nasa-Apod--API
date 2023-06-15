@@ -10,8 +10,7 @@
   <h1 align="center"> Picture of the Day  </h1>
 </div><bR>
 
-
-  # :movie_camera:   Vídeo do aplicativo em funcionamento - Planetas:
+ <h3> <b> :movie_camera: Vídeo do aplicativo em funcionamento - Planetas:</b></h3>
 <br>
 <details close="Mapa"> 
 
