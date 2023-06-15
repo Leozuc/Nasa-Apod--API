@@ -19,7 +19,7 @@
      <p <i class="devicon-firebase-plain"></i> Link do vídeo: colocaaqui.com.br</p><BR><BR>
        </details>
 
- <details close="Mapa"> 
+ <details close="api"> 
 
 <summary><b>Nova API:</summary></b>
      <p <i class="devicon-firebase-plain"></i>Devido à nossa antiga API (APOD - Nasa) ficar fora de ar, tivemos que escolher
