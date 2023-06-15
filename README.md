@@ -26,7 +26,7 @@
 <summary><b>Nova API:</summary></b>
      <p <i class="devicon-firebase-plain"></i>Devido à nossa antiga API (APOD - Nasa) ficar fora de ar, tivemos que escolher
   outra API para substituí-la rapidamente e, como tal, escolhemos a: Planets Api.</p><BR><BR>
-      <p <i class="devicon-firebase-plain"></i>Link da documentação da API: https://github.com/k99sharma/planets-api</p><BR><BR>
+      <p <i class="devicon-firebase-plain"></i>Link da documentação da API: https://github.com/k99sharma/planets-api</p><BR>
  </details>
 
 
