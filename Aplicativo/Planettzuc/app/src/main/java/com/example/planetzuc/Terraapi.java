@@ -1,7 +1,9 @@
 package com.example.planetzuc;
 
+import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -19,7 +21,7 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-public class Apiconex extends AppCompatActivity {
+public class Terraapi extends AppCompatActivity {
 
     private TextView nameTextView;
     private TextView taglineTextView;
@@ -36,7 +38,21 @@ public class Apiconex extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.apiconex);
+        setContentView(R.layout.terraapi);
+
+        View botao;
+
+        botao = findViewById(R.id.btvoltar);
+
+
+        botao.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+                Intent intent = new Intent(Terraapi.this,buscaplaneta.class);
+                startActivity(intent);
+            }
+        });
 
         nameTextView = findViewById(R.id.nameTextView);
         taglineTextView = findViewById(R.id.taglineTextView);
@@ -45,10 +61,10 @@ public class Apiconex extends AppCompatActivity {
         descriptionTextView = findViewById(R.id.descriptionTextView);
         distanceFromSunTextView = findViewById(R.id.distanceFromSunTextView);
         yearLengthTextView = findViewById(R.id.yearLengthTextView);
-       // namesakeTextView = findViewById(R.id.namesakeTextView);
+        // namesakeTextView = findViewById(R.id.namesakeTextView);
         textureUrl = findViewById(R.id.spaceTextureImageView);
 
-        String planetUrl = "https://planets-17f2.onrender.com/planets/getPlanet?name=mars";
+        String planetUrl = "https://planets-17f2.onrender.com/planets/getPlanet?name=earth";
         FetchPlanetDataTask task = new FetchPlanetDataTask();
         task.execute(planetUrl);
     }
@@ -102,22 +118,22 @@ public class Apiconex extends AppCompatActivity {
             if (planetData != null) {
                 nameTextView.setText(planetData.getName());
                 taglineTextView.setText(planetData.getTagline());
-                Glide.with(Apiconex.this)
+                Glide.with(Terraapi.this)
                         .load(planetData.getTagline_icon())
                         .circleCrop()
                         .into(taglineIconImageView);
 
                 // Configurar os campos extras
-                Glide.with(Apiconex.this)
+                Glide.with(Terraapi.this)
                         .load(planetData.getPicture())
                         .into(pictureImageView);
 
                 descriptionTextView.setText(planetData.getDescription());
                 distanceFromSunTextView.setText(planetData.getDistanceFromSun());
                 yearLengthTextView.setText(planetData.getYearLength());
-             //   namesakeTextView.setText(planetData.getNamesake());
+                //   namesakeTextView.setText(planetData.getNamesake());
 
-                Glide.with(Apiconex.this)
+                Glide.with(Terraapi.this)
                         .load(planetData.getTextureUrl())
                         .into(textureUrl);
             }

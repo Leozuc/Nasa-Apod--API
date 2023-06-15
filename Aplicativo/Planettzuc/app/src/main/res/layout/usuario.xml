@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/fundao">
+    android:background="@drawable/fundooo">
 
 <!--
     <LinearLayout
@@ -92,6 +92,7 @@
 
         </LinearLayout>
     </LinearLayout>-->
+    <!--
     <Button
         android:id="@+id/voltar"
         android:layout_width="50dp"
@@ -108,6 +109,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:rippleColor="#FFFFFF" />
+        -->
 
 
     <ImageView
@@ -138,7 +140,7 @@
     <LinearLayout
         android:id="@+id/linearLayout11"
         android:layout_width="match_parent"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="40dp"
         android:layout_height="100dp"
         android:orientation="horizontal"
         app:layout_constraintEnd_toEndOf="parent"
@@ -588,7 +590,7 @@
             android:layout_height="match_parent">
 
             <TextView
-                android:layout_marginLeft="100dp"
+                android:layout_marginLeft="110dp"
                 android:id="@+id/textView2"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -676,7 +678,7 @@
                 android:layout_width="270dp"
                 android:layout_height="70dp"
                 android:layout_marginEnd="16dp"
-                android:background="@color/tranps"
+                android:background="@color/tranps1"
                 android:text=""
                 android:textAlignment="center"
                 android:textColor="@color/white"

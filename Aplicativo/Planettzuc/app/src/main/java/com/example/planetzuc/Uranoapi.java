@@ -1,7 +1,9 @@
 package com.example.planetzuc;
 
+import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -37,6 +39,20 @@ public class Uranoapi extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.uranoapi);
+
+        View botao;
+
+        botao = findViewById(R.id.btvoltar);
+
+
+        botao.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+                Intent intent = new Intent(Uranoapi.this,buscaplaneta.class);
+                startActivity(intent);
+            }
+        });
 
         nameTextView = findViewById(R.id.nameTextView);
         taglineTextView = findViewById(R.id.taglineTextView);

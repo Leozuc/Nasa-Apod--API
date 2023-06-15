@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/fundao">
+    android:background="@drawable/fundooo">
 
 
     <Button
@@ -89,7 +89,7 @@
                     android:id="@+id/card_bottao_selecoes"
                     android:layout_width="350dp"
                     android:layout_height="100dp"
-                    app:cardBackgroundColor="#C3110321"
+                    app:cardBackgroundColor="@color/laranjacolor"
                     app:cardCornerRadius="20dp"
                     app:cardElevation="0dp">
 
@@ -146,7 +146,7 @@
                 <androidx.cardview.widget.CardView
                     android:layout_width="350dp"
                     android:layout_height="100dp"
-                    app:cardBackgroundColor="#C3110321"
+                    app:cardBackgroundColor="@color/laranjacolor"
                     app:cardCornerRadius="20dp"
                     app:cardElevation="0dp">
 
@@ -204,7 +204,7 @@
                 <androidx.cardview.widget.CardView
                     android:layout_width="350dp"
                     android:layout_height="100dp"
-                    app:cardBackgroundColor="#C3110321"
+                    app:cardBackgroundColor="@color/laranjacolor"
                     app:cardCornerRadius="20dp"
                     app:cardElevation="0dp">
 
@@ -260,7 +260,7 @@
                 <androidx.cardview.widget.CardView
                     android:layout_width="350dp"
                     android:layout_height="100dp"
-                    app:cardBackgroundColor="#C3110321"
+                    app:cardBackgroundColor="@color/laranjacolor"
                     app:cardCornerRadius="20dp"
                     app:cardElevation="0dp">
 
@@ -317,7 +317,7 @@
                 <androidx.cardview.widget.CardView
                     android:layout_width="350dp"
                     android:layout_height="100dp"
-                    app:cardBackgroundColor="#C3110321"
+                    app:cardBackgroundColor="@color/laranjacolor"
                     app:cardCornerRadius="20dp"
                     app:cardElevation="0dp">
 
@@ -374,7 +374,7 @@
                 <androidx.cardview.widget.CardView
                     android:layout_width="350dp"
                     android:layout_height="100dp"
-                    app:cardBackgroundColor="#C3110321"
+                    app:cardBackgroundColor="@color/laranjacolor"
                     app:cardCornerRadius="20dp"
                     app:cardElevation="0dp">
 
@@ -431,7 +431,7 @@
                 <androidx.cardview.widget.CardView
                     android:layout_width="350dp"
                     android:layout_height="100dp"
-                    app:cardBackgroundColor="#C3110321"
+                    app:cardBackgroundColor="@color/laranjacolor"
                     app:cardCornerRadius="20dp"
                     app:cardElevation="0dp">
 

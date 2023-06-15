@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/drawable/bordertres.xml" value="0.2235" />
         <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/drawable/borderum.xml" value="0.2595" />
         <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/drawable/botaoo.xml" value="0.2595" />
-        <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/drawable/bt_login.xml" value="0.2595" />
+        <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/drawable/bt_login.xml" value="0.152" />
         <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/drawable/btn_logar.xml" value="0.2595" />
         <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/drawable/btnborda.xml" value="0.255" />
         <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/drawable/estilo_sombra.xml" value="0.255" />
@@ -19,11 +20,11 @@
         <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/layout/apiconex.xml" value="0.2" />
         <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/layout/cadastro.xml" value="0.2" />
         <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/layout/home.xml" value="0.2" />
-        <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/layout/infoplaneta.xml" value="0.144" />
+        <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/layout/infoplaneta.xml" value="0.264" />
         <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/layout/login.xml" value="0.1956521739130435" />
         <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/layout/logindois.xml" value="0.1490036231884058" />
-        <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/layout/planetes.xml" value="0.128" />
-        <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/layout/terraapi.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/layout/planetes.xml" value="0.264" />
+        <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/layout/terraapi.xml" value="0.128" />
         <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/layout/teste.xml" value="0.264" />
         <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/layout/uranoapi.xml" value="0.2" />
         <entry key="..\:/Users/luizm/OneDrive/Documentos/tentandodois/Planettzuc/app/src/main/res/layout/usuario.xml" value="0.264" />
@@ -42,7 +43,7 @@
   <component name="VisualizationToolProject">
     <option name="state">
       <ProjectState>
-        <option name="scale" value="0.128" />
+        <option name="scale" value="0.264" />
       </ProjectState>
     </option>
   </component>
