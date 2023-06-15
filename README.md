@@ -16,9 +16,16 @@
 
   
 <summary><b>Url do vídeo:</summary></b>
-     <h3 <i class="devicon-firebase-plain"></i> Link do vídeo: colocaaqui.com.br</h3><BR><BR>
+     <p <i class="devicon-firebase-plain"></i> Link do vídeo: colocaaqui.com.br</p><BR><BR>
        </details>
 
+<summary><b>Nova API:</summary></b>
+     <p <i class="devicon-firebase-plain"></i>Devido à nossa antiga API (APOD - Nasa) ficar fora de ar, tivemos que escolher
+  outra API para substituí-la rapidamente e, como tal, escolhemos a: Planets Apir</p><BR><BR>
+      <p <i class="devicon-firebase-plain"></i>Link da documentação da API: https://github.com/k99sharma/planets-api</p><BR><BR>
+
+  
+       </details>
 
 
 
