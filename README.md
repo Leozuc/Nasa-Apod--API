@@ -10,33 +10,6 @@
   <h1 align="center"> Picture of the Day  </h1>
 </div><bR>
 
- <h3> <b> :movie_camera: Vídeo do aplicativo em funcionamento - Planetas:</b></h3>
-<br>
-
-<details close="Mapa"> 
-
-  
-<summary><b>Url do vídeo:</summary></b>
-     <p <i class="devicon-firebase-plain"></i> Link do vídeo: https://youtu.be/cixLhDKy1f8 </p><BR>
-       </details>
-       
-
- <details close="api"> 
-
-<summary><b>Nova API:</summary></b>
-     <p <i class="devicon-firebase-plain"></i>Devido à nossa antiga API (APOD - Nasa) ficar fora de ar, tivemos que escolher
-  outra API para substituí-la rapidamente e, como tal, escolhemos a: Planets Api.</p><BR><BR>
-      <p <i class="devicon-firebase-plain"></i>Link da documentação da API: https://github.com/k99sharma/planets-api</p><BR>
- </details>
-
-
-
-
-
-  # :chart_with_downwards_trend: Funcionalidades do projeto
- Aplicativo em desenvolvimento para pessoas amantes de fotografias, podendo publicar lindas imagens diariamente e consulta-las quando quiser!
- Tradução: Uma biblioteca Java para acessar a API Picture of the Day (APOD) baseada em HTTP. Esta aplicação está disponivel para celulares antigos e modernos.
-  <br><br>
  *Dupla:* Eduardo Andreolli e Leonardo Mazzuco | 3° DS | Programação Mobile (*Prof°:* Aline Firmino Brito)<br>
 
 <bR>
@@ -161,6 +134,33 @@
   <br>
   
   
+ <h3> <b> :movie_camera: Vídeo do aplicativo em funcionamento - Planetas:</b></h3>
+<br>
+
+<details close="Mapa"> 
+
+  
+<summary><b>Url do vídeo:</summary></b>
+     <p <i class="devicon-firebase-plain"></i> Link do vídeo: https://youtu.be/cixLhDKy1f8 </p><BR>
+       </details>
+       
+
+ <details close="api"> 
+
+<summary><b>Nova API:</summary></b>
+     <p <i class="devicon-firebase-plain"></i>Devido à nossa antiga API (APOD - Nasa) ficar fora de ar, tivemos que escolher
+  outra API para substituí-la rapidamente e, como tal, escolhemos a: Planets Api.</p><BR><BR>
+      <p <i class="devicon-firebase-plain"></i>Link da documentação da API: https://github.com/k99sharma/planets-api</p><BR>
+ </details>
+
+
+
+
+
+ ## :chart_with_downwards_trend: Funcionalidades do projeto
+ Aplicativo em desenvolvimento para pessoas amantes de fotografias, podendo publicar lindas imagens diariamente e consulta-las quando quiser!
+ Tradução: Uma biblioteca Java para acessar a API Picture of the Day (APOD) baseada em HTTP. Esta aplicação está disponivel para celulares antigos e modernos.
+  <br><br>
 
   ## ✅ Será usado:
    - `Java `
